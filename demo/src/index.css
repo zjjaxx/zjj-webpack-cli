@@ -1,0 +1,13 @@
+
+body{
+    background: pink;
+}
+/* .comment{
+    display: block;
+} */
+.logo{
+    /* 哈哈哈 */
+    display: flex;
+    height: 300px;
+    background: url("./imgs/logo.jpg") no-repeat;
+}
