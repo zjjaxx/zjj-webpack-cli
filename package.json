@@ -1,7 +1,7 @@
 {
   "name": "zjj-webpack-cli",
   "version": "1.0.1",
-  "repository":"https://github.com/zjjaxx/zjj-webpack-cli.git",
+  "repository": "https://github.com/zjjaxx/zjj-webpack-cli.git",
   "description": "",
   "main": "index.js",
   "scripts": {
