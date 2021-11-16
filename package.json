@@ -1,6 +1,6 @@
 {
   "name": "zjj-webpack-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "repository": "https://github.com/zjjaxx/zjj-webpack-cli.git",
   "description": "",
   "main": "index.js",
